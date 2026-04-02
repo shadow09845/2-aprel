@@ -1,6 +1,9 @@
 function ammorxon() {
     return(
-<h2>Ammor</h2>
+<>
+<h1>sahgfhaghgdhdhsdhasgdjahgda</h1>
+
+</>
     )
 }
 
